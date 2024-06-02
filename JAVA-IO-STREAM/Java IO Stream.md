@@ -61,10 +61,10 @@ Last-Modified-Date: 2024-05-02T09:59:00
 >- 對於 FileWriter 來說，要寫入的 File 可以不存在，會自動建立一個新的並寫入。
 >```java
 >public static void main(String[] args) {  
-// 需求: 讀取 hello.txt 檔案  
-FileReader fileReader = null;  
-try {  
-// 創建 File Obj 映射欲讀取的文件  
+>// 需求: 讀取 hello.txt 檔案  
+>FileReader fileReader = null;  
+>try {  
+>// 創建 File Obj 映射欲讀取的文件  
 File file = new File("src/fileiotest/hello.txt");  
 // 將欲讀取的 File Obj 傳遞到 FileReader 裡  
 fileReader = new FileReader(file);  
