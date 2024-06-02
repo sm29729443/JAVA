@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "c1c887a3ff5e0ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6c1f3cdf85715a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d456563b9d3846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/SpringBoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a91010ad284de2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79c4eaad19be939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044b04c8336af24d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58b255f1e0b9bd34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#按照",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2cddca49d1f323d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8f5c9d9eedd5ad8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "272a6d1aba8520a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7948f8808dd3e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/SpringBoot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "166984cbbc06afe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/SpringBoot.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ce0abc418e02efe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13dbc1d6eb6bda41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/SpringBoot.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false
+    }
+  },
+  "active": "f1d456563b9d3846",
+  "lastOpenFiles": [
+    "Spring/Spring Spring MVC Mybatis Integration.md",
+    "Spring/SpringBoot.md",
+    "Redis/bitmap.md",
+    "Redis/Redis.md",
+    "Redis/String.md",
+    "Redis/img/Pasted image 20240530142445.png",
+    "Redis/img",
+    "Redis/img/Pasted image 20240530142241.png",
+    "R.md",
+    "Redis/Redis脑图（基础篇+高级篇）.html",
+    "Spring/Spring MVC.md",
+    "Redis",
+    "Spring/kaitao-springMVC.pdf",
+    "Spring/kaitao-springMVC.pdf.crdownload",
+    "Spring/Spring.md",
+    "Spring/Spring IOC.md",
+    "img/Pasted image 20240514105600.png",
+    "img/Pasted image 20240513152755.png",
+    "img/Pasted image 20240513145050.png",
+    "img/Pasted image 20240513141645.png",
+    "img/Pasted image 20240513120515.png",
+    "img/Pasted image 20240513115707.png",
+    "img/Pasted image 20240513102509.png",
+    "前端/JAVAWEB.md",
+    "Spring",
+    "Character Encoding/Character Set.md",
+    "JAVA-IO-STREAM/Java IO Stream.md",
+    "JAVA-Thread-相關/Thread.md",
+    "JAVA-Thread-相關/Thread 安全問題及解決.md",
+    "JAVA-Thread-相關/synchronized.md",
+    "JAVA-Thread-相關/Program.md",
+    "JAVA-Thread-相關/Process.md",
+    "JAVA-Thread-相關/parallel.md",
+    "JAVA-Thread-相關/JAVA Thread 的創建與使用.md",
+    "JAVA-Thread-相關/concurrency.md",
+    "JAVA-Thread-相關/鎖(Lock).md",
+    "JAVA-Thread-相關/線程調度.md",
+    "JAVA-Thread-相關/線程間的通訊機制.md",
+    "JAVA-Thread-相關/單例模式(Singleton).md",
+    "JAVA-Thread-相關/死鎖.md",
+    "Character Encoding/JAVA 中的 Character.md",
+    "img/Pasted image 20240506142714.png",
+    "前端",
+    "計算機網路與 JAVA Implement",
+    "Character Encoding",
+    "JAVA-IO-STREAM",
+    "board1.canvas"
+  ]
+}
